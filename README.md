@@ -13,14 +13,18 @@
 | NanoCloud | 注册有50G流量试用 |直连机场| 1元100G-10元300G | 无 | [点击注册](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi) | 无 |
 | 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) | 9折优惠码：**VFkpIWl5** |
 
+如果本项目对您有所帮助，请 [Star](https://github.com/PythonIeda/jichangtuijian)，您的支持是我更新的动力！
+
 ## 免费、白嫖活动
 
-#### 秒联云(0/月220G)
+#### 秒联云白嫖220G/月
+
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
-机场特色: 首月白嫖220G
-
 白嫖码：**秒连云.com**
+
+60+中转节点，速度优秀，诚意满满！下面附测速与拓扑线路分析图！
+
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/a7f9b696-97b0-460d-9dad-b3e7ea6831e7)
