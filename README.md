@@ -1,4 +1,4 @@
-# 2024年10月最新机场推荐
+# 2024年11月最新机场推荐
 
 ## 选购前必读
 
@@ -12,6 +12,15 @@
 | SFCloud | 暂无 |中转机场/专线机场| 15元100G-25元200G | 35元100G | [点击注册](https://www.sofastcloud.net/#/register?code=lO75Nx2p) | 8折新用户优惠码：**new** |
 | NanoCloud | 注册有50G流量试用 |直连机场| 1元100G-10元300G | 无 | [点击注册](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi) | 无 |
 | 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) | 9折优惠码：**VFkpIWl5** |
+
+## 免费、白嫖活动
+
+#### 秒联云(0/月220G)
+官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
+
+机场特色: 首月白嫖220G
+
+白嫖码：**秒连云.com**
 
 ## 测速与解锁情况
 
