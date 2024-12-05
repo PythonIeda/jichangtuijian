@@ -10,8 +10,9 @@
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
 | EFCloud | 暂无 |中转机场| 8元100G-10元200G | 25元100G | [点击注册](https://inv.easyfastcloud.com/#/register?code=e6bMZ2fK) | 8折新用户优惠码：**new** |
 | SFCloud | 暂无 |中转机场/专线机场| 15元100G-25元200G | 35元100G | [点击注册](https://www.sofastcloud.net/#/register?code=lO75Nx2p) | 8折新用户优惠码：**new** |
-| NanoCloud | 注册有50G流量试用 |直连机场| 1元100G-10元300G | 无 | [点击注册](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi) | 无 |
-| 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) | 9折优惠码：**VFkpIWl5** |
+| 十元一年机场 | 有白嫖套餐 |直连机场| 9.9元年每月100G | 30元1T | [点击注册](https://syyn.2.passwallwall.life/index.php#/register?code=uwXVGqTO) | 无 |
+| 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) |  |
+| Hneko云 | 暂无 |直连机场| 5元600G | 25元1T | [点击注册](https://neko5.o888.space/#/register?code=xbq3kPq1) | 所有套餐 7.5折， 优惠码： 75 活动时间： 即日起————12.15日|
 
 如果本项目对您有所帮助，请 [Star](https://github.com/PythonIeda/jichangtuijian)，您的支持是我更新的动力！
 
