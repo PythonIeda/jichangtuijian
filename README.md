@@ -17,24 +17,7 @@
 
 ## 免费、白嫖活动
 
-#### 秒联云白嫖220G/月
-
-官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
-
-白嫖码：**秒连云.com**
-
-60+中转节点，速度优秀，诚意满满！下面附测速与拓扑线路分析图！
-
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/a7f9b696-97b0-460d-9dad-b3e7ea6831e7)
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6141220033012023420-y](https://github.com/user-attachments/assets/887e2ea5-d3e0-48dd-af6c-7e7f6e71e3e9)
-
-![telegram-cloud-photo-size-5-6141220033012023196-y](https://github.com/user-attachments/assets/2862ade5-85a1-473b-9430-062d08ab86e6)
-
-线路分析:
-![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
+无
 
 ## 测速与解锁情况
 
