@@ -8,7 +8,11 @@
 
 | 名称 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 注册地址 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
-| 十元一年机场 | 有白嫖套餐 |直连机场| 9.9元年每月100G | 30元1T | [点击注册](https://syyn.2.passwallwall.life/index.php#/register?code=uwXVGqTO) | 无 |
+| 动力港 | 暂无 |中转机场| 8元年每月100G | 30元100G | [点击注册](https://site01.dongligang.vip/login/?code=EeuRaZ9o) | 🔥 6折一次性流量优惠券码： 40%off
+🔥 65折年付优惠券码： 35%off
+🔥 7折季/半年付优惠券码： 30%off
+🔥 75折月付优惠券码： 25%off
+ |
 | 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) |  |
 | Hneko云 | 暂无 |直连机场| 5元600G | 25元1T | [点击注册](https://neko5.o888.space/#/register?code=xbq3kPq1) | 所有套餐 7.5折， 优惠码： 75 活动时间： 即日起————12.15日|
 
