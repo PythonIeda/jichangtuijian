@@ -14,10 +14,10 @@
 
 | 名称 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 注册地址 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
-| 动力港 | 暂无 |中转机场| 8元年每月100G | 30元100G | [点击注册](https://site01.dongligang.vip/login/?code=EeuRaZ9o) | 🔥 6折一次性流量优惠券码： 40%off 🔥 65折年付优惠券码： 35%off 🔥 7折季/半年付优惠券码： 30%off🔥 75折月付优惠券码： 25%off|
-| 爱翻 | 注册有3天的10G的流量试用 |专线机场| 18.8元年每月138G | 无 | [点击注册](https://dash.afun.la/register?code=KVo8cHma) | |
+| 动力港 | 暂无 |中转机场| 8元年每月100G | 30元100G | [点击注册](https://site01.dongligang.vip/login/?code=EeuRaZ9o) | |
+| 紅葉 | 注册即送首月50G免费流量套餐 |中转机场、专线机场 |10元年每月158G | 无 | [点击注册](https://www.紅葉.site/auth/register?code=V9cquaO2) | |
 | 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) |  |
-| Hneko云 | 暂无 |直连机场| 5元600G | 25元1T | [点击注册](https://neko5.o888.space/#/register?code=xbq3kPq1) | 所有套餐 7.5折， 优惠码： 75 活动时间： 即日起————12.15日|
+| 青云梯 | 暂无 |专线机场| 25元150G | 无 | [点击注册](https://ivt01.qytaff.cc/register?aff=ymkMqBTU) | 长期优惠码：年付以下85折：qyt85 年付以上8折：qyt80|
 
 
 ## 免费、白嫖活动
@@ -36,14 +36,15 @@
 ![image](https://github.com/user-attachments/assets/4d935f6f-bc1d-47ff-a014-d02300a83252)
 ![image](https://github.com/user-attachments/assets/0b40cff7-5de5-44d8-9e47-a54e8f558645)
 
-#### 爱翻测速、解锁及线路分析
-![image](https://github.com/user-attachments/assets/70f9553f-d11f-4bf2-a450-330a9d1022ef)
-![image](https://github.com/user-attachments/assets/06b675c2-97fc-46f5-8478-e14c59bf462e)
-
+#### 紅葉测速、解锁及线路分析
+![MiaoKo-    net-7504-speed](https://github.com/user-attachments/assets/06e1242d-46c2-443d-abe2-bcd6664ca1cc)
+![2025-05-30 17 21 12](https://github.com/user-attachments/assets/e66d5d11-01d3-4b27-a73a-3134cfc159d0)
 
 #### 一毛机场测速、解锁及线路分析
 
 ![一毛机场测速与解锁](https://github.com/user-attachments/assets/55adfb72-a09c-45d4-b7ad-6d50cc46fcbc)
 ![一毛机场线路分析](https://github.com/user-attachments/assets/73dc7bf5-d9fb-4465-8ee0-69b478f1a575)
 
-
+#### 青云梯测速、解锁及线路分析
+![MiaoKo-    com-1036-speed](https://github.com/user-attachments/assets/9b95eaaf-6c44-49d8-913b-6462ff5a5211)
+![2025-02-20T17-36-20 909-com](https://github.com/user-attachments/assets/3cb1b00d-b776-41e0-bfc6-ffeb6728aea8)
