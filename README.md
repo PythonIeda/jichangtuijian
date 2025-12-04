@@ -14,6 +14,7 @@
 
 | 名称 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 注册地址 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
+| Phantom | 注册即送首月100G免费流量套餐 |直连机场| 1元100G | 无 | [点击注册](https://pin.dianping.men/auth/register?code=jP6JVzHo) | |
 | 动力港 | 暂无 |中转机场| 8元年每月100G | 30元100G | [点击注册](https://site01.dongligang.vip/login/?code=EeuRaZ9o) | |
 | 紅葉 | 注册即送首月50G免费流量套餐 |中转机场、专线机场 |10元年每月158G | 无 | [点击注册](https://www.紅葉.site/auth/register?code=V9cquaO2) | |
 | 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) |  |
